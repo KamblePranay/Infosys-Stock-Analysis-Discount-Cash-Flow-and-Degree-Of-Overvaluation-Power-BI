@@ -1,4 +1,4 @@
-# Infosys-Financial-Analysis-Discount-Cash-Flow-and-Degree-Of-Overvaluation-Power-BI
+# Infosys-Financial-Analysis-Discount-Cash-Flow-And-Degree-Of-Overvaluation-Power-BI
 Insightful Financial Analysis of Infosys: Discount Cash Flow and Degree of Overvaluation 
 
 Dive into the essence of Infosys’ financial standing with our meticulously crafted dashboard, employing the Discounted Cash Flow (DCF) methodology. The data, curated from the Screener website, guarantees precision and pertinence, offering a transparent view of Infosys’ economic landscape.
